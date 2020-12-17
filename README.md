@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://images-ext-1.discordapp.net/external/Cjau7s2DuW2yepno-WhENVDRO4cTmFa0PkHm_FF0d9s/%3Fsize%3D512/https/cdn.discordapp.com/avatars/367456841241722890/5f1a68eddb8af2d2595af8668e95019c.jpg">
+<img src="https://images-ext-1.discordapp.net/external/Cjau7s2DuW2yepno-WhENVDRO4cTmFa0PkHm_FF0d9s/%3Fsize%3D512/https/cdn.discordapp.com/avatars/367456841241722890/5f1a68eddb8af2d2595af8668e95019c.jpg" style="height:10%"; width: 10%; border-radius: 5%">
 
 
 
