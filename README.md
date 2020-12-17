@@ -1,7 +1,8 @@
 ### Hello 👋
 🌱 I’m currently learning Java and JavaScript.
+😄 I have lots of ideas for future projects
 
-I have lots of ideas for future projects 😄
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotionlessMatt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MotionlessMatt/MotionlessMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
