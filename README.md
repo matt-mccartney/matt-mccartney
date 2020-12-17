@@ -1,5 +1,5 @@
 ### Hello 👋
-🌱 I’m currently learning Java and JavaScript.
+🌱 I’m currently learning some new languages.
 😄 I have lots of ideas for future projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotionlessMatt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
