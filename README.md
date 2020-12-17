@@ -1,7 +1,7 @@
-### Hi there 👋
-<img src="https://images-ext-1.discordapp.net/external/Cjau7s2DuW2yepno-WhENVDRO4cTmFa0PkHm_FF0d9s/%3Fsize%3D512/https/cdn.discordapp.com/avatars/367456841241722890/5f1a68eddb8af2d2595af8668e95019c.jpg" title="My Logo">
+### Hello 👋
+🌱 I’m currently learning Java and JavaScript.
 
-
+I have lots of ideas for future projects 😄
 
 <!--
 **MotionlessMatt/MotionlessMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
