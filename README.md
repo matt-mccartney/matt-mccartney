@@ -1,9 +1,10 @@
-### Hello 👋
-🌱 I’m currently learning some new languages.
+<h1 style="text-align: center;">**Hi, I'm Matt 👋**</h1>
+<h3 style="text-align: center;">Entrepreneurial-Minded Software Engineer</h3>
+---
 
-😄 I have lots of ideas for future projects
+🌱 Currently building out projects using Next.js and FastAPI
 
-📫 Contact me on Discord: Motionless#8425
+📫 The best place to contact me is through my [website](https://mattmccartney.dev)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-mccartney&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
