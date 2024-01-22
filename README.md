@@ -1,6 +1,5 @@
 <h1 style="text-align: center;">**Hi, I'm Matt 👋**</h1>
 <h3 style="text-align: center;">Entrepreneurial-Minded Software Engineer</h3>
----
 
 🌱 Currently building out projects using Next.js and FastAPI
 
