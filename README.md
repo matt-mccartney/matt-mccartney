@@ -1,12 +1,5 @@
 <h1 style="text-align: center;">Hi, I'm Matt 👋</h1>
 <h3 style="text-align: center;">Entrepreneurial-Minded Software Engineer</h3>
-
-🌱 Currently building out projects using Next.js and FastAPI
-
-📫 The best place to contact me is through my [website](https://mattmccartney.dev)!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-mccartney&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **MotionlessMatt/MotionlessMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
